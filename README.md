@@ -1,2 +1,3 @@
 # 6426-1822
-A repo setup for you to practice using Git without worrying about mistakes. Email me your username to get admin access.
+This repo contains the code we go through and create each week for the 6426 course.
+Semester 1 2021.
